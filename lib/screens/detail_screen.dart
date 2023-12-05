@@ -44,7 +44,7 @@ class DetailScreen extends StatelessWidget {
                       BoxShadow(
                         blurRadius: 15,
                         offset: const Offset(10, 10),
-                        color: Colors.black.withOpacity(0.5),
+                        color: Colors.black.withOpacity(0.3),
                       )
                     ]),
                 child: Image.network(
